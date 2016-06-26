@@ -1,6 +1,6 @@
 # meister-task-sync
 
-Synchronization of Evernote reminders with Meister Tasks.
+Script for syncing Evernote reminders to ideas in MindMeister maps and tasks in Meister Tasks.
 
 ## Installation
 
